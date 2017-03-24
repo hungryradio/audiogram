@@ -19,6 +19,16 @@
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
   },
+    "Hungry": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "Audiogram background.jpg",
+    "foregroundColor": "#bf0404",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
   "Neon": {
     "backgroundColor": "#556270",
     "foregroundColor": "#c7f464"
